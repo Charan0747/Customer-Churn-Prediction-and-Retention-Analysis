@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-and-Retention-Analysis
-# 📊 Customer Churn Prediction & Retention Analysis
+#  Customer Churn Prediction & Retention Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 Customer Churn Prediction & Retention Analysis is a Business and Data Analytics project focused on understanding customer behavior and identifying factors influencing customer churn in the telecom industry.
 
